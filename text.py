@@ -1,2 +1,2 @@
-age=40
+age=60
 print(age)
